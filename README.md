@@ -17,7 +17,7 @@ Saya adalah seorang Middleware Developer dengan spesialisasi dalam pengembangan 
 
 ## 📈 Statistik GitHub
 
-![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=[nama_pengguna]&show_icons=true&theme=radical)
+![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=mastama&show_icons=true&theme=radical)
 
 ## 📫 Hubungi Saya
 
