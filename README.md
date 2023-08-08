@@ -2,7 +2,7 @@
 
 ## 🚀 Tentang Saya
 
-Saya adalah Middleware Developer dengan hasrat tak terbatas untuk menjadi programmer yang pro. Saya selalu bersemangat untuk belajar hal-hal baru dan berkolaborasi dalam proyek-proyek keren.
+Saya adalah seorang Middleware Developer dengan spesialisasi dalam pengembangan menggunakan bahasa pemrograman Java dan kerangka kerja Spring Boot. Saya memiliki hasrat tak terbatas untuk eksplorasi teknologi dan berkolaborasi dalam proyek-proyek inovatif.
 
 ## 💼 Pekerjaan & Proyek
 
@@ -11,8 +11,9 @@ Saya adalah Middleware Developer dengan hasrat tak terbatas untuk menjadi progra
 
 ## 🛠️ Teknologi & Bahasa Pemrograman
 
-![Teknologi](https://img.shields.io/badge/Teknologi-[Teknologi]-[Pilihan Warna]?style=flat&logo=[Logo Teknologi]&logoColor=white)
-![Bahasa Pemrograman](https://img.shields.io/badge/Bahasa-[Bahasa Pemrograman]-[Pilihan Warna]?style=flat&logo=[Logo Bahasa Pemrograman]&logoColor=white)
+![Teknologi](https://img.shields.io/badge/Teknologi-Java,Pemrograman%20Web,Pengembangan%20Middleware-ff69b4?style=flat&logo=java&logoColor=white)
+![Bahasa Pemrograman](https://img.shields.io/badge/Bahasa-Java-007396?style=flat&logo=java&logoColor=white)
+![Kerangka Kerja](https://img.shields.io/badge/Kerangka%20Kerja-Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white)
 
 ## 📈 Statistik GitHub
 
@@ -25,5 +26,5 @@ Saya adalah Middleware Developer dengan hasrat tak terbatas untuk menjadi progra
 
 ## 🎯 Kutipan Favorit
 
-"."
+"Ngoding itu ibarat shalat, walaupun sering error tetap harus ngoding(Shalat)."
 
