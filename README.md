@@ -1,11 +1,29 @@
-<h1>👋 Hi, I’m Singgih Pratama a.k.a Mastama</h1>
+# 👋 Halo, Saya Singgih Pratama!
 
+## 🚀 Tentang Saya
 
-- 👀 I’m interested in Backend Developer
-- 🌱 I’m currently learning Java, Spring Boot, dan NodeJs, Express, Postgres dan MongoDB, Postman dan Swagger
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Saya adalah Middleware Developer dengan hasrat tak terbatas untuk menjadi programmer yang pro. Saya selalu bersemangat untuk belajar hal-hal baru dan berkolaborasi dalam proyek-proyek keren.
 
-Connect With Me in new account :
+## 💼 Pekerjaan & Proyek
 
-<h1> https://github.com/maspratama </h1>
+- 🌱 Saat Ini Sedang Bekerja Pada: PT PEGADAIAN PERSERO
+- 🚀 Proyek Keren: [Tautan ke proyek penting Anda]
+
+## 🛠️ Teknologi & Bahasa Pemrograman
+
+![Teknologi](https://img.shields.io/badge/Teknologi-[Teknologi]-[Pilihan Warna]?style=flat&logo=[Logo Teknologi]&logoColor=white)
+![Bahasa Pemrograman](https://img.shields.io/badge/Bahasa-[Bahasa Pemrograman]-[Pilihan Warna]?style=flat&logo=[Logo Bahasa Pemrograman]&logoColor=white)
+
+## 📈 Statistik GitHub
+
+![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=[nama_pengguna]&show_icons=true&theme=radical)
+
+## 📫 Hubungi Saya
+
+- LinkedIn: https://www.linkedin.com/in/singgih-pratama/
+- Email: sp.mastama@gmail.com
+
+## 🎯 Kutipan Favorit
+
+"."
+
