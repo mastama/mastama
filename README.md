@@ -14,65 +14,50 @@
        alt="snake" /></a>
 </div>
 
-## 🚀 Tentang Saya
+### 🚀 About Me
 
 Saya adalah seorang Middleware Developer dengan spesialisasi dalam pengembangan menggunakan bahasa pemrograman Java dan kerangka kerja Spring Boot. Saya memiliki hasrat tak terbatas untuk eksplorasi teknologi dan berkolaborasi dalam proyek-proyek inovatif.
 
-## 💼 Pekerjaan & Proyek
+### 🛠 &nbsp;Tech Stack
 
-- 🌱 Saat Ini Sedang Bekerja Pada: PT PEGADAIAN PERSERO
-- 🚀 Proyek Keren: [Tautan ke proyek penting Anda]
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white)&nbsp;
+![Spring Native](https://img.shields.io/badge/-Spring%20Native-6DB33F?style=flat&logo=spring&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)&nbsp;
+![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)&nbsp;
+![OpenShift](https://img.shields.io/badge/-OpenShift-EE0000?style=flat&logo=red-hat-open-shift&logoColor=white)&nbsp;
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)&nbsp;
+![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white)&nbsp;
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)&nbsp;
+![DBeaver](https://img.shields.io/badge/-DBeaver-000000?style=flat&logo=dbeaver&logoColor=white)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-## 🛠️ Teknologi & Bahasa Pemrograman
+### ⚙️ &nbsp;GitHub Analytics
 
-![Teknologi](https://img.shields.io/badge/Teknologi-Java,%20SQL,%20IntelliJ%20IDEA,%20Git,%20DBeaver,%20Postman,%20Gitlab,%20VS%20Code,%20MongoDB-ff69b4?style=flat&logo=java&logoColor=white)
-![Bahasa Pemrograman](https://img.shields.io/badge/Bahasa-Java,%20SQL-007396?style=flat&logo=java&logoColor=white)
-![Kerangka Kerja](https://img.shields.io/badge/Kerangka%20Kerja-Spring%20Boot,Spring%20Native-6DB33F?style=flat&logo=spring&logoColor=white)
-![Middleware Technologies](https://img.shields.io/badge/Middleware%20Technologies-Apache%20Kafka,%20Docker,%20OpenShift,%20Jenkins,%20SonarQube,%20WebMethods-008080?style=flat)
+<p align="center">
+<a href="https://github.com/mastama">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <div>
-  <samp>
-    <h2 align="center"> Github stats </h2>
-      <br/>
-    <details open>
-  <summary><h3>Languages</h3></summary>
-            <p align="center">
-        <a href="https://github.com/mastama/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mastama&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
-          alt="mastama :: overall Top Langs " /></a>
-      </p>
-        <p align="center">
-          <a href="https://github.com/msatama/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mastama&theme=gruvbox&layout=compact&hide_border=true"
-          alt="mastama :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mastama&theme=gruvbox&layout=compact&hide_border=true"
-          alt="mastama :: Top Langs by commit" />
-          </a>
-        </p>
-</details>
-    <details open>
-  <summary><h3>stasistic</h3></summary>
-        <p align="center">
-          <a href="https://github.com/mastama/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=mastama&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=mastama&theme=gruvbox&hide_border=true" />
-          </a>
-       </p>
-     <br>
-     </samp>
-  </div>    
-</details>
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://linkedin.com/in/singgih-pratama"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:sp.mastama@gmail.com"><img src="https://img.shields.io/badge/-sp.mastama@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/s_mastama"><img src="https://img.shields.io/badge/-@s_mastama__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+</p>
 
 
-## 📫 Hubungi Saya
-
-- LinkedIn: https://www.linkedin.com/in/singgih-pratama/
-- Email: sp.mastama@gmail.com
-
-
-## 🎯 Kutipan Favorit
+### 🎯 &nbsp;Kutipan Favorit
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div id="user-content-toc">
@@ -82,3 +67,8 @@ Saya adalah seorang Middleware Developer dengan spesialisasi dalam pengembangan 
 </div>
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+-----
+Credits: [Singgih Pratama](https://github.com/mastama)
+
+Last Edited on: 09/08/2023
