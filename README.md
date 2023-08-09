@@ -23,7 +23,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white)&nbsp;
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white)&nbsp;
 ![Spring Native](https://img.shields.io/badge/-Spring%20Native-6DB33F?style=flat&logo=spring&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)&nbsp;
