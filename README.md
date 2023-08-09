@@ -14,9 +14,13 @@
        alt="snake" /></a>
 </div>
 
-### 🚀 About Me
+### 👨🏻‍💻 &nbsp;About Me
 
-Saya adalah seorang Middleware Developer dengan spesialisasi dalam pengembangan menggunakan bahasa pemrograman Java dan kerangka kerja Spring Boot. Saya memiliki hasrat tak terbatas untuk eksplorasi teknologi dan berkolaborasi dalam proyek-proyek inovatif.
+💡 &nbsp;I like to explore new technologies and develop software solutions.\
+🎓 &nbsp;I am a Middleware Developer specializing in development using the Java programming language and the Spring Boot framework.\
+💬 &nbsp;Feel free to reach out to me or just for some interesting discussion.\
+✉️ &nbsp;You can shoot me an email at sp.mastama@gmail.com! I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my [Résumé]() for more details about me. I'm open to feedback and suggestions!
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -27,6 +31,7 @@ Saya adalah seorang Middleware Developer dengan spesialisasi dalam pengembangan 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)&nbsp;
 ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)&nbsp;
 ![OpenShift](https://img.shields.io/badge/-OpenShift-EE0000?style=flat&logo=red-hat-open-shift&logoColor=white)&nbsp;
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)&nbsp;
@@ -43,15 +48,15 @@ Saya adalah seorang Middleware Developer dengan spesialisasi dalam pengembangan 
 
 <p align="center">
 <a href="https://github.com/mastama">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mastama&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mastama&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/singgih-pratama"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/singgih-pratama"><img src="https://img.shields.io/badge/-Singgih%20Pratama-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:sp.mastama@gmail.com"><img src="https://img.shields.io/badge/-sp.mastama@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/s_mastama"><img src="https://img.shields.io/badge/-@s_mastama__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
@@ -68,7 +73,5 @@ Saya adalah seorang Middleware Developer dengan spesialisasi dalam pengembangan 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
------
 Credits: [Singgih Pratama](https://github.com/mastama)
-
 Last Edited on: 09/08/2023
