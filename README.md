@@ -1,11 +1,10 @@
-<h1 id="user-content-toc" align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=50=Hey!+It's+Singgih+Pratama!;I'm+a+Middleware+Developer...;And+I'm+a+proud+Indonesian" alt="Typing SVG">
-  </a>
-</h1>
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div id="user-content-toc" align="center">
+  <h1>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Singgih+Pratama!;I'm+a+Middleware+Developer...;And+I'm+a+proud+Indonesian" alt="Typing SVG">
+    </a>
+  </h1>
+</div>
 
 <!--- snake -->
 <div align="center">
@@ -63,7 +62,7 @@
 </p>
 
 
-### 🎯 &nbsp;Kutipan Favorit
+### 🎯 &nbsp;Favorite Quotes
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div id="user-content-toc">
