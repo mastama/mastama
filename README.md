@@ -9,7 +9,8 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/mastama/mastama/blob/main/resources/img/grid-snake.svg"
+  <a href="https://mastama.github.io/mastama/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
@@ -70,16 +71,14 @@ Saya adalah seorang Middleware Developer dengan spesialisasi dalam pengembangan 
 - LinkedIn: https://www.linkedin.com/in/singgih-pratama/
 - Email: sp.mastama@gmail.com
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🎯 Kutipan Favorit
-
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Ngoding itu ibarat shalat, walaupun sering error tetap harus ngoding(Shalat).</h1></summary>
   </ul>
 </div>
-
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
