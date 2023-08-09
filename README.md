@@ -1,6 +1,11 @@
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Singgih Pratama</h1></summary>
+    <summary>
+      <h1 style="display: inline-block">
+        [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Singgih%20Pratama!;
+        I'm+a+Middleware+Developer...;And+I'm+a+proud+Indonesia)](https://git.io/typing-svg)
+      </h1>
+    </summary>
   </ul>
 </div>
 
@@ -43,6 +48,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=Jira&logoColor=white)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
